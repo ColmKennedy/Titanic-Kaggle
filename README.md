@@ -11,5 +11,5 @@ Stages:
 6. Prediction
 
 Contents:
-eda.ipynb - Exploratory Data Analysis Notebook
-preprocessing.ipynb - Using information from EDA, cleans data, feature engineering
+* eda.ipynb - Exploratory Data Analysis Notebook
+* preprocessing.ipynb - Using information from EDA, cleans data, feature engineering
