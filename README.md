@@ -11,5 +11,6 @@ Stages:
 6. Prediction
 
 Contents:
-* eda.ipynb - Exploratory Data Analysis Notebook
-* preprocessing.ipynb - Using information from EDA, cleans data, feature engineering
+* eda.ipynb - Exploratory Data Analysis Notebook (EDA). Contains all EDA, will later be merged with scikit_workflow to create one project notebook. Currently in a drafting stage.
+* preprocessing.ipynb - Using information from EDA, cleans data, feature engineering. This is a first draft of scikit_workflow.
+* scikit_workflow.ipynb - Creates a baseline model with no feature engineering. This is a draft of changing my workflow to use pipelines in sklearn. This is meant to be a more streamlined, second iteration, of the notebook: preprocessing.ipynb. This will later be merged with eda.ipynb to create one whole analysis/prediction project.
