@@ -19,10 +19,8 @@ My focus in this project is to establish my own workflow and machine learning pi
 
 ## Contents:
 
-* eda.ipynb - Exploratory Data Analysis Notebook (EDA). Contains all EDA, will later be merged with scikit_workflow to create one project notebook. Currently in a drafting stage.
-* preprocessing.ipynb - Using information from EDA, cleans data, feature engineering. This is a first draft of scikit_workflow.
-* scikit_workflow.ipynb - Creates a baseline model with no feature engineering. This is a draft of changing my workflow to use pipelines in sklearn. This is meant to be a more streamlined, second iteration, of the notebook: preprocessing.ipynb. This will later be merged with eda.ipynb to create one whole analysis/prediction project.
-
+* eda.ipynb - Exploratory Data Analysis Notebook (EDA). Contains plots, tables, and experimental feature engineering. Currently in drafting stage.
+* scikit_workflow.ipynb - Creates a baseline model with no feature engineering. Generates baseline Kaggle submission. These predictions recieved a score of 0.76076, representing roughly 76% of correctly predicted survival cases. 
 
 ## Predictions
 
